@@ -6,3 +6,9 @@
 * Pinecone
 * Weaviate
 * Chromadb
+
+### The projects cover various NLP tasks:
+* Text generation
+* Language translation
+* Sentiment analysis
+* Text classification

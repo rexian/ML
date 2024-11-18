@@ -12,3 +12,8 @@
 * Language translation
 * Sentiment analysis
 * Text classification
+* Text to Speech generation
+* Speech to Text generation
+
+### The projects cover various CV tasks:
+* Text to Image generation

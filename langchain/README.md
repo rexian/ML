@@ -15,7 +15,7 @@ This repository showcases my expertise as an AI architect, with a strong focus o
 - Built robust retrieval systems leveraging LangChain for fetching and processing relevant data efficiently.
 - Utilized embedding-based techniques to enhance data retrieval accuracy and speed.
 
-### **3. LangChain Chains**
+### **3. [LangChain Chains](/langchain/nvidia/langchain_chains.ipynb)**
 - Developed multi-step workflows (chains) to streamline complex interactions between models and data.
 - Engineered modular chains to facilitate scalability and reusability in applications.
 

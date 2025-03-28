@@ -11,7 +11,7 @@ This repository showcases my expertise as an AI architect, with a strong focus o
 - Designed and implemented efficient workflows for integrating language models with various input/output formats.
 - Focused on optimizing model interactions to support diverse application requirements.
 
-### **2. LangChain Retrieval**
+### **2. [LangChain Retrieval](/langchain/groq/langchain_groq_nvidia_llama3_RAG.ipynb)**
 - Built robust retrieval systems leveraging LangChain for fetching and processing relevant data efficiently.
 - Utilized embedding-based techniques to enhance data retrieval accuracy and speed.
 

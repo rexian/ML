@@ -27,7 +27,7 @@ This repository showcases my expertise as an AI architect, with a strong focus o
 - Implemented memory modules to support contextual conversations and long-term information retention.
 - Enhanced application interactivity by seamlessly managing user context and histories.
 
-### **6. LangChain Prompt Engineering**
+### **6. [LangChain Prompt Engineering](/langchain/nvidia/langchain_prompt_engineering.ipynb)**
 - Designed and optimized prompts to improve model performance and task-specific outcomes.
 - Applied advanced techniques such as few-shot learning and dynamic prompt generation for innovative use cases.
 

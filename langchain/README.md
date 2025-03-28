@@ -7,7 +7,7 @@ This repository showcases my expertise as an AI architect, with a strong focus o
 
 ## LangChain Projects
 
-### **1. [LangChain Model I/O](/groq/langchain_groq_chat.ipynb)**
+### **1. [LangChain Model I/O](/langchain/groq/langchain_groq_chat.ipynb)**
 - Designed and implemented efficient workflows for integrating language models with various input/output formats.
 - Focused on optimizing model interactions to support diverse application requirements.
 

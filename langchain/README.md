@@ -19,7 +19,7 @@ This repository showcases my expertise as an AI architect, with a strong focus o
 - Developed multi-step workflows (chains) to streamline complex interactions between models and data.
 - Engineered modular chains to facilitate scalability and reusability in applications.
 
-### **4. LangChain Agents**
+### **4. [LangChain Agents](/langchain/nvidia/langchain_agents.ipynb)**
 - Created intelligent agents capable of autonomous decision-making using LangChain's agent framework.
 - Customized agent behavior to tackle domain-specific challenges with precision.
 

@@ -32,7 +32,26 @@ RAGAS is a specialized evaluation framework designed for **Retrieval-Augmented G
 - [Documentation](https://docs.ragas.io/en/latest/)
 - [Community Discussions](https://discord.com/invite/ragas-ai)
 
-## Installation
-To install RAGAS, use:
-```bash
-pip install ragas
+
+# DeepEval: LLM Evaluation Framework
+
+## Overview
+DeepEval is an **open-source framework** designed to assess the performance of Large Language Models (LLMs). It provides a structured approach to evaluating model outputs using various metrics, ensuring reliability and effectiveness.
+
+## Key Features
+- **Comprehensive Metrics**: Supports over 14 evaluation metrics, including:
+  - **G-Eval**: Chain-of-thought reasoning for output assessment.
+  - **Faithfulness**: Measures accuracy and reliability.
+  - **Toxicity**: Detects harmful or offensive content.
+  - **Answer Relevancy**: Evaluates alignment with user expectations.
+  - **Summarization Quality**: Assesses coherence and completeness.
+- **Synthetic Dataset Generation**: Enables controlled testing environments.
+- **Integration with CI/CD**: Seamlessly fits into automated testing pipelines.
+- **Security & Bias Detection**: Identifies vulnerabilities like prompt injections and bias.
+
+## How It Works
+1. **Define Evaluation Criteria**: Select relevant metrics for assessment.
+2. **Create Test Cases**: Generate datasets for evaluation.
+3. **Run Evaluations**: Apply metrics to assess LLM performance.
+4. **Analyze Results**: Review reports and optimize model behavior.
+

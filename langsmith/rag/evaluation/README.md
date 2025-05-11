@@ -55,3 +55,7 @@ DeepEval is an **open-source framework** designed to assess the performance of L
 3. **Run Evaluations**: Apply metrics to assess LLM performance.
 4. **Analyze Results**: Review reports and optimize model behavior.
 
+## Resources
+- [GitHub Repository](https://github.com/explodinggradients/ragas](https://github.com/confident-ai/deepeval)
+- [Documentation](https://docs.ragas.io/en/latest/](https://www.deepeval.com/docs/getting-started)
+

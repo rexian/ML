@@ -1,0 +1,11 @@
+problem_id,problem_description,problem_category
+1,Application crashes when clicking the 'Save' button after editing a record.,Software Bug
+2,"My internet connection is constantly dropping, affecting video calls.",Network Problem
+3,I want a new feature that allows users to customize their dashboard layout.,Feature Request
+4,The monthly bill shows an incorrect charge for services I cancelled last month.,Billing Issue
+5,"Website loads very slowly, especially during peak hours. Database queries are taking too long.",Performance Issue
+6,"The printer is not responding, and I can't print any documents.",Hardware Issue
+7,Need to update the privacy policy document on the website.,Documentation
+8,User reported unauthorized access attempts to their account.,Security Vulnerability
+9,The data in the report does not match the source system records.,Data Issue
+10,The mobile app's navigation menu is confusing and hard to use.,User Interface (UI)
